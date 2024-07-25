@@ -1,4 +1,4 @@
-#2024 SEA:ME HACKATHON
+2024 SEA:ME HACKATHON
 ---
 ##팀원목록
 ###김유찬
