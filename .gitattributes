@@ -1,0 +1,7 @@
+*.py linguist-detectable=true
+*.css linguist-detectable=false
+*.html linguist-detectable=false
+*.msg linguist-detectable=false
+*.cmake linguist-detectable=false
+*.make linguist-detectable=false
+*.l linguist-detectable=false
